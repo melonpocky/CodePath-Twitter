@@ -43,7 +43,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 - Understanding the concepts for the timestamp.
-- Time in general school is getting more difficult and I really want to delve more into the Android App concepts as well. 
+- Time in general. 
 
 ## Open-source libraries used
 
